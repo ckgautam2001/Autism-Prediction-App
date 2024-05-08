@@ -2,6 +2,7 @@ pandas==1.0.5
 streamlit==1.2.0
 matplotlib==3.4.2
 numpy==1.19.5 #add new version
-lightgbm==2.3.1
+lightgbm==2.3.1 #add new version
 #install matplotlib
 #install scikit learn 
+# error coming: NotFittedError: Estimator not fitted, call fit before exploiting the model.
